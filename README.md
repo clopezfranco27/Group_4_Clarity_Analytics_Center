@@ -86,5 +86,5 @@ pip install -r requirements.txt
 ## Contributors
 
 - **Crystal Lopez-Franco** — data ingestion (Bronze landing zone, source integration)
-- **Sonali Manohar** — stoage (Silver transformation, Gold star schema design)
+- **Sonali Manohar** — storage (Silver transformation, Gold star schema design)
 - **Hillary Ssemakula** — processing (storage/schema setup, processing notebook, etc.)
