@@ -39,7 +39,7 @@ Data moves through a **medallion architecture**:
 This pipeline ingests four sources into Bronze:
 
 1. **Treasury Fiscal Data API** — pulled from `https://api.fiscaldata.treasury.gov`, multiple accounting/reconciliation endpoints, with pagination. Landed as timestamped JSON.
-   - *APA:* U.S. Department of Treasury. (2026). *Financial Report of the U.S. Government: Reconciliations of net operating cost and budget deficit.* Fiscal Data Treasury. https://fiscaldata.treasury.gov/datasets/u-s-government-financial-report/reconciliations-of-net-operating-cost-and-budget-deficit
+   - *APA:* U.S. Department of Treasury. (n.d.). U.S. government financial report: Reconciliations of net operating cost and budget deficit. [Data set]. Fiscal Data. Retrieved August 12, 2026, from https://fiscaldata.treasury.gov/datasets/u-s-government-financial-report/reconciliations-of-net-operating-cost-and-budget-deficit#reports-and-files 
 
 2. **Synthetic ICE operations dataset** — generated staffing/assignment data (agent, region, role, department, facility) since real ICE staffing data isn't publicly available. Saved as `ice_operations.csv` before landing.
 
@@ -53,7 +53,9 @@ This pipeline ingests four sources into Bronze:
    | FY_2023_ICE_ERO_Report.pdf | 2023 | 2019 |
    | FY_2024_ICE_ERO_Report.pdf | 2024 | 2020 |
 
-   - *APA:* U.S. Immigration and Customs Enforcement. *Enforcement and Removal Operations Statistics.* U.S. Department of Homeland Security. https://www.ice.gov/statistics
+   - *APA:* U.S. Immigration and Customs Enforcement. (2026, July 24). Enforcement and Removal Operations statistics. U.S. Department of Homeland Security. https://www.ice.gov/statistics
+
+
 
 4. **Enforcement metrics CSV** — a supplementary structured extract (`ero_enforcement_metrics_claude_extract.csv`) pulled via `gdown`, feeding `bronze_ice_enforcement_metrics`, later joined with the PDF-extracted table in Silver.
 
