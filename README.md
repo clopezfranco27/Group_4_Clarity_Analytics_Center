@@ -7,7 +7,7 @@ Contributors: Hillary Ssemakula, Sonali Manohar, Crystal Lopez-Franco]
 
 The Clarity Analytics Center (CAC) is a nonprofit focused on government accountability, immigration policy transparency, and public spending oversight. This prototype builds a unified data pipeline linking ICE enforcement, staffing, and Treasury funding data — currently fragmented across federal sources — into a single medallion-architecture database to support oversight-style reporting.
 
-Full context on the problem statement and goals is in Group4_Proposal.pdf` (not included in this repo).
+Full context on the problem statement and goals is in Group4_Proposal.pdf (not included in this repo).
 
 ## Repository Structure
 
