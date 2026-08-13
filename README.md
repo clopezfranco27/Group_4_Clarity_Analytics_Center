@@ -87,6 +87,6 @@ pip install -r requirements.txt
 
 ## Contributors
 
-- **Crystal Lopez-Franco** — data ingestion (Bronze landing zone, source integration)
-- **Sonali Manohar** — storage (Silver transformation, Gold star schema design)
-- **Hillary Ssemakula** — processing (storage/schema setup, processing notebook, etc.)
+- **Crystal Lopez-Franco** — data ingestion (02_ingestion.ipynb:Bronze landing zone, source integration)
+- **Sonali Manohar** — storage (01_storage.ipynb: schema setup, Gold star schema design)
+- **Hillary Ssemakula** — processing (03_processing.ipynb: Silver/Gold transformation)
