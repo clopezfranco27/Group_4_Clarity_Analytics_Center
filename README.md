@@ -83,7 +83,7 @@ pip install -r requirements.txt
 
 - The reporting and dashboard layer described in the original proposal is not yet built — the prototype currently stops at a queryable Gold layer.
 - FY2016–2020 ERO source data is relabeled (not newly collected) to align with the Treasury date range; a production version would source real historical or current-year ICE data directly.
-- [Add any Silver/Gold-specific limitations from Sonali/Hillary here.]
+- Available enforcement data is aggregated which limits the amount questions that can be answered by the gold layer. Future work would involve obtaining row level enforcement data that would enable development of robust metric dashboards.
 
 ## Contributors
 
