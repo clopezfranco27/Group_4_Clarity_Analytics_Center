@@ -1,7 +1,7 @@
 # Group 4: Clarity Analytics Center — Final Project Prototype
 
 **DSIO 2010 — Implementation Path A (Working Prototype)**
-Contributors: Hillary Ssemakula, Sonali Manohar, Crystal Lopez-Franco]
+Contributors: Hillary Ssemakula, Sonali Manohar, Crystal Lopez-Franco
 
 ## Overview
 
