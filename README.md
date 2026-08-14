@@ -40,7 +40,7 @@ Data moves through a **medallion architecture**:
 
 ## Data Sources
 
-This pipeline ingests four sources into Bronze:
+This pipeline ingests five sources into Bronze:
 
 1. **Treasury Fiscal Data API** — pulled from `https://api.fiscaldata.treasury.gov`, multiple accounting/reconciliation endpoints, with pagination. Landed as timestamped JSON.
    - *APA:* U.S. Department of Treasury. (n.d.). U.S. government financial report: Reconciliations of net operating cost and budget deficit. [Data set]. Fiscal Data. Retrieved August 12, 2026, from https://fiscaldata.treasury.gov/datasets/u-s-government-financial-report/reconciliations-of-net-operating-cost-and-budget-deficit#reports-and-files 
@@ -77,7 +77,7 @@ pip install -r requirements.txt
 
 * **Option A** — Quick Start: open and run all cells in start.ipynb (repo root). It executes notebooks 01–04 in order and leaves a fully populated storage/clarity_analytics_center.db.
 
-* **Option 2:** — Step-by-step: run each notebook individually, in order:
+* **Option B:** — Step-by-step: run each notebook individually, in order:
 1. `notebooks/01_storage.ipynb` — creates `storage/clarity_analytics_center.db` and the full schema
 2. `notebooks/02_ingestion.ipynb` — ingests all five sources into Bronze
 3. `notebooks/03_processing.ipynb` — transforms Bronze into Silver and Gold
@@ -96,5 +96,5 @@ pip install -r requirements.txt
 ## Contributors
 
 - **Crystal Lopez-Franco** — data ingestion (02_ingestion.ipynb: Bronze landing zone, source integration)
-- **Sonali Manohar** — storage (01_storage.ipynb: schema setup, Gold star schema design)
+- **Sonali Manohar** — storage and governance (01_storage.ipynb: schema setup, Gold star schema design; 04_data_governance.ipynb: data catalog, dictionary, and business glossary)
 - **Hillary Ssemakula** — processing (03_processing.ipynb: Silver/Gold transformation)
