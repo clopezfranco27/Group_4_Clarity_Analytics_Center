@@ -17,9 +17,13 @@ Group_4_Clarity_Analytics_Center/
 │   ├── 01_storage.ipynb       # creates the SQLite DB and Bronze/Silver/Gold schema
 │   ├── 02_ingestion.ipynb     # pulls raw data into the Bronze landing zone
 │   └── 03_processing.ipynb    # transforms Bronze -> Silver -> Gold (star schema)
-├── data/
-│   ├── clarity_analytics_center.db   # SQLite database (Bronze/Silver/Gold)
-│   └── [ICE ERO Statistics PDFs]     # source PDFs used during ingestion
+│   └── 04_data_governance.ipynb    # adds data catalog, dictionary, and business glossary tables
+
+├── sources/
+│   └── [ICE ERO Statistics PDFs, enforcement metrics CSV]   # raw source files read during ingestion
+├── storage/
+│   ├── clarity_analytics_center.db   # SQLite database (Bronze/Silver/Gold + governance tables)
+│   └── landing_zone/                 # timestamped raw JSON, written during ingestion
 ├── requirements.txt
 └── README.md
 ```
@@ -43,9 +47,12 @@ This pipeline ingests four sources into Bronze:
 
 2. **Synthetic ICE operations dataset** — generated staffing/assignment data (agent, region, role, department, facility) since real ICE staffing data isn't publicly available. Saved as `ice_operations.csv` before landing.
 
-3. **ICE ERO Statistics PDFs (5 files)** — downloaded via `gdown` from shared Google Drive links, extracted with `pdfplumber`. **Note:** these five PDFs were originally published for FY2016–FY2020. To align with our Treasury data's date range, they have been relabeled FY2020–FY2024 in this pipeline (see mapping below). This is a disclosed synthetic-alignment decision, not a claim that these are newly published reports.
+3. **Synthetic ICE budget dataset** — generated financial figures (net operating cost, budget authority, budget deficit contribution) feeding `bronze_ice_budget`, since real ICE-specific budget data at this granularity isn't publicly available. This is distinct from the Treasury Fiscal Data API source above; see Ethical Analysis in the final report for the trade-offs this introduces when synthetic ICE figures are analyzed alongside real Treasury totals.
 
-   | Filename in `data/` | Labeled fiscal year | Original publication year |
+
+4. **ICE ERO Statistics PDFs (5 files)** — read from the local `sources/` folder and extracted with `pdfplumber`. **Note:** these five PDFs were originally published for FY2016–FY2020. To align with our Treasury data's date range, they have been relabeled FY2020–FY2024 in this pipeline (see mapping below). This is a disclosed synthetic-alignment decision, not a claim that these are newly published reports.
+
+   | Filename in `sources/` | Labeled fiscal year | Original publication year |
    |---|---|---|
    | FY_2020_ICE_ERO_Report.pdf | 2020 | 2016 |
    | FY_2021_ICE_ERO_Report.pdf | 2021 | 2017 |
@@ -57,13 +64,13 @@ This pipeline ingests four sources into Bronze:
 
 
 
-4. **Enforcement metrics CSV** — a supplementary structured extract (`ero_enforcement_metrics_claude_extract.csv`) pulled via `gdown`, feeding `bronze_ice_enforcement_metrics`, later joined with the PDF-extracted table in Silver.
+5. **Enforcement metrics CSV** — a supplementary structured extract (`ero_enforcement_metrics_claude_extract.csv`) read from the local `sources/` folder, feeding `bronze_ice_enforcement_metrics`, later joined with the PDF-extracted table in Silver.
 
-All raw ingestion output additionally lands as timestamped JSON in `data/landing_zone/` for lineage and reproducibility, before being loaded into Bronze tables.
+All raw ingestion output additionally lands as timestamped JSON in `storage/landing_zone/` for lineage and reproducibility, before being loaded into Bronze tables.
 
 ## How to Reproduce
 
-**1. Clone the repository** and make sure your working directory is the repo root when running notebooks (all data paths are relative to the repo root, e.g. `data/clarity_analytics_center.db`).
+**1. Clone the repository** and make sure your working directory is the repo root when running notebooks (all data paths are relative to the repo root, e.g. `storage/clarity_analytics_center.db`).
 
 **2. Install dependencies:**
 ```bash
@@ -71,13 +78,14 @@ pip install -r requirements.txt
 ```
 
 **3. Run notebooks in order:**
-1. `notebooks/01_storage.ipynb` — creates `data/clarity_analytics_center.db` and the full schema
-2. `notebooks/02_ingestion.ipynb` — ingests all four sources into Bronze
+1. `notebooks/01_storage.ipynb` — creates `storage/clarity_analytics_center.db` and the full schema
+2. `notebooks/02_ingestion.ipynb` — ingests all five sources into Bronze
 3. `notebooks/03_processing.ipynb` — transforms Bronze into Silver and Gold
+4. `notebooks/04_data_governance.ipynb` — adds the data catalog, data dictionary, and business glossary tables (currently expects the DB at `data/clarity_analytics_center.db` — copy or symlink it there first; see Known Limitations)
 
-**4. Verify:** query `data/clarity_analytics_center.db` directly, or check `data/landing_zone/` for the raw timestamped JSON.
+**4. Verify:** query `storage/clarity_analytics_center.db` directly, or check `storage/landing_zone/` for the raw timestamped JSON.
 
-> **A note on environment:** this pipeline was originally developed in Google Colab against a team Shared Drive. Paths have been updated to work against the local `data/` folder in this repository instead, so it can run outside Colab without Drive access. A `USE_DRIVE` flag remains in each notebook if you need to run it against the original shared Drive location instead.
+> **A note on environment:** this pipeline was originally developed in Google Colab against a team Shared Drive. Paths have been updated to work against the local `storage/` and `sources/` folders in this repository instead, so it can run outside Colab without Drive access. A `USE_DRIVE` flag remains in each notebook if you need to run it against the original shared Drive location instead.
 
 ## Known Limitations / Future Work
 
