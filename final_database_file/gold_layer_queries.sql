@@ -31,9 +31,9 @@ FROM joined
 ORDER BY fiscal_year;
 
 
--- ---------------------------------------------------------------------
--- Q2. Is falling output fewer staff, or lower productivity per agent?
--- ---------------------------------------------------------------------
+-- --------------------------------------------------------------------------
+-- Q2. Is falling output due to fewer staff or lower productivity per agent?
+-- --------------------------------------------------------------------------
 WITH month_ends AS (
     SELECT DISTINCT month_end_date, fiscal_year
     FROM gold_dim_date
