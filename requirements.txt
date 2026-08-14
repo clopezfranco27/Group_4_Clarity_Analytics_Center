@@ -2,5 +2,4 @@ pandas
 numpy
 requests
 pdfplumber
-gdown
 tabulate
