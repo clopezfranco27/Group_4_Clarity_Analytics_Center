@@ -1,0 +1,2710 @@
+{
+  "metadata": {
+    "timestamp": "2026-08-13T20:58:15.728655",
+    "source": "synthetic ICE generator",
+    "record_count": 300,
+    "extraction_status": "success"
+  },
+  "data": [
+    {
+      "fiscal_year": 2023,
+      "department_code": "090",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 4074774974.75,
+      "budget_authority": 2309257837.07,
+      "budget_deficit_contribution": 4068415537.22,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "050",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 890521641.71,
+      "budget_authority": 3654602389.84,
+      "budget_deficit_contribution": 719193968.44,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "025",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 1706414033.07,
+      "budget_authority": 4470503455.43,
+      "budget_deficit_contribution": 1670699593.82,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "090",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 4940877818.58,
+      "budget_authority": 2188437918.15,
+      "budget_deficit_contribution": 4855283565.75,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "025",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 4105208669.78,
+      "budget_authority": 4574418922.43,
+      "budget_deficit_contribution": 4778879277.55,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "080",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 2167863897.84,
+      "budget_authority": 4407678999.58,
+      "budget_deficit_contribution": 1931353981.96,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "090",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 4028967890.88,
+      "budget_authority": 1496864877.57,
+      "budget_deficit_contribution": 4379942540.63,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "015",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 1675290863.52,
+      "budget_authority": 1569877858.01,
+      "budget_deficit_contribution": 1660487881.92,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "050",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 965667676.86,
+      "budget_authority": 1144187614.1,
+      "budget_deficit_contribution": 892345385.19,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "045",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 1165736963.09,
+      "budget_authority": 5631139297.35,
+      "budget_deficit_contribution": 1371027448.37,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "030",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 4119531247.03,
+      "budget_authority": 5423790731.41,
+      "budget_deficit_contribution": 3733928955.6,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "050",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4188893560.24,
+      "budget_authority": 1341965121.69,
+      "budget_deficit_contribution": 3447143548.03,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "025",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 2938416834.06,
+      "budget_authority": 3997630731.22,
+      "budget_deficit_contribution": 2667025501.3,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "070",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 1028498044.56,
+      "budget_authority": 4463382711.42,
+      "budget_deficit_contribution": 1119447549.23,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "030",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 151074028.67,
+      "budget_authority": 3864870524.46,
+      "budget_deficit_contribution": 180558090.06,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "030",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 2232160341.65,
+      "budget_authority": 5135058788.6,
+      "budget_deficit_contribution": 1917577943.05,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "030",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 1260758037.93,
+      "budget_authority": 2977467903.63,
+      "budget_deficit_contribution": 1175200400.61,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "025",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 2364643115.19,
+      "budget_authority": 1821361585.37,
+      "budget_deficit_contribution": 2603049189.59,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "080",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 2942755353.79,
+      "budget_authority": 2687379982.69,
+      "budget_deficit_contribution": 3428204143.12,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "090",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 2184692971.71,
+      "budget_authority": 5242705603.26,
+      "budget_deficit_contribution": 2075352136.26,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "015",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 2917747314.73,
+      "budget_authority": 3403964477.87,
+      "budget_deficit_contribution": 3415928113.8,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "090",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 3627844481.29,
+      "budget_authority": 4402825663.48,
+      "budget_deficit_contribution": 3468859987.84,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "025",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 651486445.02,
+      "budget_authority": 5108956068.19,
+      "budget_deficit_contribution": 550386725.48,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "060",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 2656558014.51,
+      "budget_authority": 4014322274.23,
+      "budget_deficit_contribution": 2483276600.93,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "080",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 2454946289.11,
+      "budget_authority": 1417333346.52,
+      "budget_deficit_contribution": 2401325121.23,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "060",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 2449869926.79,
+      "budget_authority": 5630592073.17,
+      "budget_deficit_contribution": 2742053809.13,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "070",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 3895830925.2,
+      "budget_authority": 4228127314.41,
+      "budget_deficit_contribution": 4617998108.03,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "030",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 381797416.41,
+      "budget_authority": 3815533214.8,
+      "budget_deficit_contribution": 415767857.99,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "070",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 1133445564.61,
+      "budget_authority": 5620941326.39,
+      "budget_deficit_contribution": 1077688162.94,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "045",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 1794341327.15,
+      "budget_authority": 4903881188.97,
+      "budget_deficit_contribution": 2027356369.11,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "015",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 688183634.62,
+      "budget_authority": 6710839122.32,
+      "budget_deficit_contribution": 722089179.39,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "080",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 3145561925.41,
+      "budget_authority": 3906783266.31,
+      "budget_deficit_contribution": 2967787265.07,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "080",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4889570555.35,
+      "budget_authority": 1900390056.46,
+      "budget_deficit_contribution": 3998052203.96,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "015",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 3684389598.35,
+      "budget_authority": 866737391.64,
+      "budget_deficit_contribution": 4055900015.77,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "045",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 358223245.64,
+      "budget_authority": 3264942858.33,
+      "budget_deficit_contribution": 425663785.14,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "060",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 565274964.53,
+      "budget_authority": 1823923549.09,
+      "budget_deficit_contribution": 646013469.95,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "015",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 3833524056.78,
+      "budget_authority": 2690928707.06,
+      "budget_deficit_contribution": 4108169576.88,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "070",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 4694385602.09,
+      "budget_authority": 6991278086.46,
+      "budget_deficit_contribution": 4999079480.16,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "070",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 2535390718.53,
+      "budget_authority": 3999355218.8,
+      "budget_deficit_contribution": 2733792712.85,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "050",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 1938921244.81,
+      "budget_authority": 543034834.54,
+      "budget_deficit_contribution": 2056007945.55,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "080",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 3841814849.62,
+      "budget_authority": 3723999043.06,
+      "budget_deficit_contribution": 3658393915.54,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "045",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 971096753.52,
+      "budget_authority": 821527500.49,
+      "budget_deficit_contribution": 1088870780.99,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "045",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 4449578870.47,
+      "budget_authority": 3269985208.22,
+      "budget_deficit_contribution": 4457672008.56,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "015",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 327436035.96,
+      "budget_authority": 5826540635.28,
+      "budget_deficit_contribution": 307125474.72,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "030",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 2661809485.68,
+      "budget_authority": 5942897872.1,
+      "budget_deficit_contribution": 3141309436.44,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "045",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 2795751770.48,
+      "budget_authority": 4809240413.15,
+      "budget_deficit_contribution": 2938142887.74,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "015",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 2965057372.43,
+      "budget_authority": 5221262629.75,
+      "budget_deficit_contribution": 3111379412.88,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "020",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 343056183.39,
+      "budget_authority": 5265260469.65,
+      "budget_deficit_contribution": 340906617.22,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "020",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 4004038127.21,
+      "budget_authority": 5501226107.31,
+      "budget_deficit_contribution": 4738083003.1,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "080",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 2827078764.62,
+      "budget_authority": 4168963692.16,
+      "budget_deficit_contribution": 2451617057.92,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "045",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 1289809732.07,
+      "budget_authority": 5574852878.33,
+      "budget_deficit_contribution": 1086693383.33,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "045",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 1799608796.26,
+      "budget_authority": 6274165690.32,
+      "budget_deficit_contribution": 1672977567.4,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "070",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 2637377097.43,
+      "budget_authority": 3447373531.98,
+      "budget_deficit_contribution": 2968190819.93,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "090",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 4776649466.37,
+      "budget_authority": 4850356031.49,
+      "budget_deficit_contribution": 4671672631.16,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "015",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 204198239.93,
+      "budget_authority": 2931398135.0,
+      "budget_deficit_contribution": 177681902.36,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "030",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 1546285792.43,
+      "budget_authority": 506264767.44,
+      "budget_deficit_contribution": 1361365707.87,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "045",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 356500698.26,
+      "budget_authority": 4532034002.74,
+      "budget_deficit_contribution": 357317000.97,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "025",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 2837901251.49,
+      "budget_authority": 5797601353.24,
+      "budget_deficit_contribution": 2470036232.34,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "090",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 3112065543.26,
+      "budget_authority": 6515542723.29,
+      "budget_deficit_contribution": 3145808592.49,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "015",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 3649256990.54,
+      "budget_authority": 5993587701.66,
+      "budget_deficit_contribution": 4099237661.02,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "080",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 3109740366.89,
+      "budget_authority": 3946199194.52,
+      "budget_deficit_contribution": 3439644590.97,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "025",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 2193676174.97,
+      "budget_authority": 538780346.21,
+      "budget_deficit_contribution": 2084907837.14,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "030",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 4082298350.46,
+      "budget_authority": 1502913427.07,
+      "budget_deficit_contribution": 4686068488.03,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "025",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 2864669651.55,
+      "budget_authority": 5470690020.35,
+      "budget_deficit_contribution": 3156558333.93,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "020",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 1782865121.27,
+      "budget_authority": 4752207209.02,
+      "budget_deficit_contribution": 1748716636.04,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "020",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 1619954370.48,
+      "budget_authority": 5866992168.47,
+      "budget_deficit_contribution": 1559838904.63,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "080",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 3870692308.47,
+      "budget_authority": 1059112589.7,
+      "budget_deficit_contribution": 4095346557.01,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "030",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 927186636.05,
+      "budget_authority": 6754494604.0,
+      "budget_deficit_contribution": 880532665.91,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "050",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 2996690012.75,
+      "budget_authority": 3907751659.61,
+      "budget_deficit_contribution": 3151662753.73,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "015",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 3752256874.62,
+      "budget_authority": 1033780237.74,
+      "budget_deficit_contribution": 3763053899.24,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "090",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 3804318131.31,
+      "budget_authority": 3106440431.27,
+      "budget_deficit_contribution": 4010100940.16,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "070",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 1153454745.77,
+      "budget_authority": 5820669608.97,
+      "budget_deficit_contribution": 1014595032.93,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "020",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 809898466.55,
+      "budget_authority": 4876521095.6,
+      "budget_deficit_contribution": 788426249.87,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "030",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 2609685051.01,
+      "budget_authority": 3937375778.42,
+      "budget_deficit_contribution": 2399796441.17,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "050",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4843442218.58,
+      "budget_authority": 6792998653.18,
+      "budget_deficit_contribution": 5515422920.08,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "020",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 3574446488.77,
+      "budget_authority": 3937373707.73,
+      "budget_deficit_contribution": 4100224239.17,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "045",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 537651343.7,
+      "budget_authority": 4166603133.36,
+      "budget_deficit_contribution": 581363340.35,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "030",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 885307072.69,
+      "budget_authority": 2199915389.52,
+      "budget_deficit_contribution": 1001142943.05,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "080",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 722290022.89,
+      "budget_authority": 4040752669.3,
+      "budget_deficit_contribution": 655181675.48,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "045",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 3811940199.02,
+      "budget_authority": 4619750012.48,
+      "budget_deficit_contribution": 3442823396.73,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "090",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 2656498792.99,
+      "budget_authority": 3746783004.57,
+      "budget_deficit_contribution": 3084936171.79,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "025",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 3263931181.98,
+      "budget_authority": 1126892713.38,
+      "budget_deficit_contribution": 3436369083.79,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "080",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 3548203516.68,
+      "budget_authority": 5079046942.73,
+      "budget_deficit_contribution": 4078346860.65,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "050",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4921089529.38,
+      "budget_authority": 834836646.09,
+      "budget_deficit_contribution": 4791226138.24,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "060",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 1493684608.79,
+      "budget_authority": 2789109170.02,
+      "budget_deficit_contribution": 1507535605.62,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "080",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 3921355015.43,
+      "budget_authority": 5354699056.88,
+      "budget_deficit_contribution": 3498990523.99,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "050",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 1888147043.52,
+      "budget_authority": 533220892.78,
+      "budget_deficit_contribution": 1596403243.29,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "030",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4065187575.03,
+      "budget_authority": 6924499118.18,
+      "budget_deficit_contribution": 4347561082.76,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "070",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 1737626619.39,
+      "budget_authority": 5659674735.94,
+      "budget_deficit_contribution": 1991408783.92,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "030",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 2255258114.35,
+      "budget_authority": 5572423842.38,
+      "budget_deficit_contribution": 2622554952.58,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "070",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 3649864545.64,
+      "budget_authority": 5182226458.86,
+      "budget_deficit_contribution": 2932985398.8,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "070",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 4487448754.78,
+      "budget_authority": 4945993611.78,
+      "budget_deficit_contribution": 4885858298.8,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "025",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 3304552022.3,
+      "budget_authority": 3620271229.42,
+      "budget_deficit_contribution": 3405293201.74,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "070",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4694849151.89,
+      "budget_authority": 5283946685.04,
+      "budget_deficit_contribution": 4023046897.43,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "015",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 3039681354.75,
+      "budget_authority": 3909243309.69,
+      "budget_deficit_contribution": 2535658001.28,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "030",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 549972954.97,
+      "budget_authority": 3801907520.12,
+      "budget_deficit_contribution": 611962885.91,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "015",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 3090477663.54,
+      "budget_authority": 6398654148.04,
+      "budget_deficit_contribution": 3155475736.81,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "050",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 2988297861.16,
+      "budget_authority": 6206111363.73,
+      "budget_deficit_contribution": 2760098909.46,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "045",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 1135249709.07,
+      "budget_authority": 2406663170.74,
+      "budget_deficit_contribution": 966657011.0,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "090",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 4721053756.76,
+      "budget_authority": 1977023325.48,
+      "budget_deficit_contribution": 5370743812.03,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "015",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 3333192205.36,
+      "budget_authority": 5160093512.52,
+      "budget_deficit_contribution": 3859928772.4,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "080",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 1873175209.65,
+      "budget_authority": 6527228532.59,
+      "budget_deficit_contribution": 2082221978.96,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "045",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 1109810184.76,
+      "budget_authority": 5695907916.89,
+      "budget_deficit_contribution": 1246718822.92,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "030",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 3593530302.23,
+      "budget_authority": 1733426968.23,
+      "budget_deficit_contribution": 3289513944.4,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "090",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 1395683623.55,
+      "budget_authority": 3932606105.63,
+      "budget_deficit_contribution": 1228757628.39,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "080",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4456064510.75,
+      "budget_authority": 5556865641.59,
+      "budget_deficit_contribution": 3737635314.02,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "025",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 3029270639.78,
+      "budget_authority": 2051961005.55,
+      "budget_deficit_contribution": 3017746465.77,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "020",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 626950329.3,
+      "budget_authority": 4952162506.72,
+      "budget_deficit_contribution": 719776651.43,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "060",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 797928454.19,
+      "budget_authority": 5366934776.98,
+      "budget_deficit_contribution": 758560984.13,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "025",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 4928239272.97,
+      "budget_authority": 676311231.99,
+      "budget_deficit_contribution": 5309694281.66,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "050",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 2399154719.58,
+      "budget_authority": 2241670845.24,
+      "budget_deficit_contribution": 2039077773.39,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "025",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 2313821971.17,
+      "budget_authority": 4294194289.38,
+      "budget_deficit_contribution": 1906618337.18,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "025",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 2260207760.54,
+      "budget_authority": 2578677862.0,
+      "budget_deficit_contribution": 2492182076.46,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "015",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4210130402.84,
+      "budget_authority": 5839040653.61,
+      "budget_deficit_contribution": 4623120940.61,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "050",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 3397362256.55,
+      "budget_authority": 2924723665.09,
+      "budget_deficit_contribution": 3626128160.88,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "050",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 4977916263.87,
+      "budget_authority": 1944332097.06,
+      "budget_deficit_contribution": 5050169808.5,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "030",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 3728170261.62,
+      "budget_authority": 3088489024.51,
+      "budget_deficit_contribution": 3618923562.9,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "045",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 4241273140.05,
+      "budget_authority": 4854988664.47,
+      "budget_deficit_contribution": 3572822173.67,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "030",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 3888191549.78,
+      "budget_authority": 3646786105.26,
+      "budget_deficit_contribution": 4115799856.61,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "090",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 4175847840.65,
+      "budget_authority": 685658765.35,
+      "budget_deficit_contribution": 4729634030.68,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "025",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 2242623139.08,
+      "budget_authority": 2156053657.09,
+      "budget_deficit_contribution": 2528539332.81,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "080",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 862983156.64,
+      "budget_authority": 3474289048.3,
+      "budget_deficit_contribution": 878936361.73,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "025",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 1801801303.32,
+      "budget_authority": 2379207839.03,
+      "budget_deficit_contribution": 1613689966.06,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "080",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 4904330170.64,
+      "budget_authority": 5304117701.1,
+      "budget_deficit_contribution": 4724488458.53,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "025",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 3441840564.23,
+      "budget_authority": 4495733547.72,
+      "budget_deficit_contribution": 3835488287.98,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "090",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 2067885318.09,
+      "budget_authority": 4041859424.52,
+      "budget_deficit_contribution": 2426771180.89,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "015",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 4303385035.14,
+      "budget_authority": 2924201659.26,
+      "budget_deficit_contribution": 4550325968.5,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "070",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 1755498142.79,
+      "budget_authority": 636246965.2,
+      "budget_deficit_contribution": 1937177116.36,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "070",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 2543131848.45,
+      "budget_authority": 5314138118.54,
+      "budget_deficit_contribution": 2461861278.61,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "015",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 1088160403.57,
+      "budget_authority": 3039610082.53,
+      "budget_deficit_contribution": 1242635228.35,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "060",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 4886310929.3,
+      "budget_authority": 3796527320.09,
+      "budget_deficit_contribution": 3984237082.43,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "070",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 1722329290.48,
+      "budget_authority": 707484927.01,
+      "budget_deficit_contribution": 1519331139.08,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "060",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 3011332797.74,
+      "budget_authority": 4672282190.1,
+      "budget_deficit_contribution": 3575433385.76,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "025",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 660006500.38,
+      "budget_authority": 6615269035.76,
+      "budget_deficit_contribution": 642244135.8,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "090",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 1029290625.78,
+      "budget_authority": 4493950067.11,
+      "budget_deficit_contribution": 959677983.83,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "060",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4912452357.31,
+      "budget_authority": 1299397684.88,
+      "budget_deficit_contribution": 4001117367.77,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "090",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 2900755178.87,
+      "budget_authority": 2651369180.21,
+      "budget_deficit_contribution": 3386170080.9,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "015",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 702829979.24,
+      "budget_authority": 6239620614.43,
+      "budget_deficit_contribution": 620040933.55,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "020",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 3833485798.67,
+      "budget_authority": 4821407776.47,
+      "budget_deficit_contribution": 3669743398.74,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "080",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 4995941511.91,
+      "budget_authority": 4786807849.38,
+      "budget_deficit_contribution": 4482858998.58,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "020",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 3581688035.5,
+      "budget_authority": 4723255372.02,
+      "budget_deficit_contribution": 3032559019.73,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "050",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 3686537722.79,
+      "budget_authority": 1048649699.72,
+      "budget_deficit_contribution": 3163244861.19,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "080",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 2450209492.07,
+      "budget_authority": 3940171135.66,
+      "budget_deficit_contribution": 2653484217.3,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "015",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 4698148065.49,
+      "budget_authority": 2745130300.0,
+      "budget_deficit_contribution": 4889683205.7,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "020",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 3933886749.69,
+      "budget_authority": 5526306349.9,
+      "budget_deficit_contribution": 3717814037.39,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "050",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 3356418839.4,
+      "budget_authority": 6758357524.5,
+      "budget_deficit_contribution": 3915412014.59,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "045",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 1517748857.63,
+      "budget_authority": 1682329953.07,
+      "budget_deficit_contribution": 1337328705.48,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "080",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 430477075.42,
+      "budget_authority": 5141958615.07,
+      "budget_deficit_contribution": 513627007.78,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "015",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 1575056096.71,
+      "budget_authority": 6777356354.42,
+      "budget_deficit_contribution": 1857842865.15,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "045",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 1248176472.6,
+      "budget_authority": 6771267356.31,
+      "budget_deficit_contribution": 1264069193.04,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "030",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 2337167918.75,
+      "budget_authority": 1567340268.35,
+      "budget_deficit_contribution": 2692027576.22,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "060",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 553609802.06,
+      "budget_authority": 5641281314.54,
+      "budget_deficit_contribution": 498112625.09,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "060",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4565903505.67,
+      "budget_authority": 1104506101.75,
+      "budget_deficit_contribution": 3925250044.74,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "030",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4357424706.13,
+      "budget_authority": 5437709157.67,
+      "budget_deficit_contribution": 5109844820.46,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "070",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 3068106386.77,
+      "budget_authority": 2761926807.97,
+      "budget_deficit_contribution": 3105481588.68,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "060",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 1395112863.38,
+      "budget_authority": 6320734837.45,
+      "budget_deficit_contribution": 1408227898.37,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "060",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 4144111050.13,
+      "budget_authority": 4825732795.36,
+      "budget_deficit_contribution": 3604006605.25,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "025",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 4912620865.02,
+      "budget_authority": 4338855070.02,
+      "budget_deficit_contribution": 5066595198.97,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "090",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 2076119535.52,
+      "budget_authority": 5423857758.64,
+      "budget_deficit_contribution": 2018812629.37,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "080",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 1829448932.03,
+      "budget_authority": 6384312425.57,
+      "budget_deficit_contribution": 1987858104.07,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "050",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 2980920710.06,
+      "budget_authority": 6506659550.35,
+      "budget_deficit_contribution": 2844421016.15,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "070",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 3896969891.57,
+      "budget_authority": 3682085356.77,
+      "budget_deficit_contribution": 3405022977.27,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "025",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 1094890357.64,
+      "budget_authority": 4938875146.12,
+      "budget_deficit_contribution": 966723852.54,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "050",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 752606476.91,
+      "budget_authority": 2864805948.55,
+      "budget_deficit_contribution": 655696716.76,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "020",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 1048671628.98,
+      "budget_authority": 2365748024.77,
+      "budget_deficit_contribution": 841951089.61,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "015",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 438234043.51,
+      "budget_authority": 4375431760.74,
+      "budget_deficit_contribution": 499006962.95,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "045",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4447362580.59,
+      "budget_authority": 5934605572.09,
+      "budget_deficit_contribution": 3977522940.76,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "080",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 2535464874.65,
+      "budget_authority": 4014212676.82,
+      "budget_deficit_contribution": 2683463083.58,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "030",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 2834909366.71,
+      "budget_authority": 5647933019.67,
+      "budget_deficit_contribution": 2420116974.9,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "015",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 571170961.58,
+      "budget_authority": 5883317611.31,
+      "budget_deficit_contribution": 549315029.04,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "030",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 4457287446.61,
+      "budget_authority": 2639572955.59,
+      "budget_deficit_contribution": 3839249552.05,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "080",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 4595234423.43,
+      "budget_authority": 2188597885.03,
+      "budget_deficit_contribution": 4871042337.14,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "070",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 2489801874.34,
+      "budget_authority": 557130241.5,
+      "budget_deficit_contribution": 2867033190.95,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "090",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 1411764168.61,
+      "budget_authority": 5155634293.35,
+      "budget_deficit_contribution": 1495526904.58,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "020",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 3111648713.8,
+      "budget_authority": 5730782933.41,
+      "budget_deficit_contribution": 3078545320.13,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "045",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 2150030369.31,
+      "budget_authority": 6120844043.79,
+      "budget_deficit_contribution": 2384579038.69,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "015",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 1229166160.89,
+      "budget_authority": 1632878388.46,
+      "budget_deficit_contribution": 1426550159.62,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "070",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 2304501021.35,
+      "budget_authority": 819818408.97,
+      "budget_deficit_contribution": 2236416642.6,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "015",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 2152997832.55,
+      "budget_authority": 5284437577.19,
+      "budget_deficit_contribution": 1962560123.52,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "060",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 2873706332.04,
+      "budget_authority": 3372172709.89,
+      "budget_deficit_contribution": 2870399731.92,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "080",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 927905019.71,
+      "budget_authority": 5340478534.64,
+      "budget_deficit_contribution": 772463770.93,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "080",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 1297079230.28,
+      "budget_authority": 2765181726.33,
+      "budget_deficit_contribution": 1526181138.78,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "015",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 1973856220.49,
+      "budget_authority": 3757461032.36,
+      "budget_deficit_contribution": 1774638627.58,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "070",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 4999930014.32,
+      "budget_authority": 2705816296.12,
+      "budget_deficit_contribution": 4337710346.34,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "050",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 4207329787.06,
+      "budget_authority": 1312675276.07,
+      "budget_deficit_contribution": 4695127226.74,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "025",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 276248675.82,
+      "budget_authority": 1618188902.59,
+      "budget_deficit_contribution": 234364150.99,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "070",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 1790253106.14,
+      "budget_authority": 3773687348.32,
+      "budget_deficit_contribution": 1455694244.48,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "070",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 2807183746.65,
+      "budget_authority": 2199752813.01,
+      "budget_deficit_contribution": 3008279008.74,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "060",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4301188170.45,
+      "budget_authority": 1080910598.36,
+      "budget_deficit_contribution": 4768663940.17,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "080",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 1622772347.66,
+      "budget_authority": 3387737920.26,
+      "budget_deficit_contribution": 1451649606.06,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "030",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 3794256441.65,
+      "budget_authority": 5302267455.24,
+      "budget_deficit_contribution": 4116034607.28,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "070",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 2367901955.06,
+      "budget_authority": 5706069048.65,
+      "budget_deficit_contribution": 2804182806.33,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "080",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 1784028946.93,
+      "budget_authority": 4439796627.34,
+      "budget_deficit_contribution": 1533365802.58,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "030",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 3091513702.7,
+      "budget_authority": 3517460688.92,
+      "budget_deficit_contribution": 2605916178.33,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "020",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4334532276.79,
+      "budget_authority": 642367189.74,
+      "budget_deficit_contribution": 4261822001.9,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "050",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 3825916694.16,
+      "budget_authority": 3369240018.61,
+      "budget_deficit_contribution": 3402173377.9,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "090",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 2906536639.18,
+      "budget_authority": 4744001062.46,
+      "budget_deficit_contribution": 2696153236.92,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "015",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 2682550571.67,
+      "budget_authority": 6824362366.39,
+      "budget_deficit_contribution": 2182528363.64,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "090",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 2539898533.58,
+      "budget_authority": 4804344299.89,
+      "budget_deficit_contribution": 2147958919.0,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "030",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 3270076750.02,
+      "budget_authority": 4232764704.75,
+      "budget_deficit_contribution": 3292393455.55,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "070",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 4104667949.93,
+      "budget_authority": 6288428747.75,
+      "budget_deficit_contribution": 4034953169.07,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "030",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 1170238252.01,
+      "budget_authority": 4850784275.39,
+      "budget_deficit_contribution": 1271029697.13,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "015",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 3284980256.16,
+      "budget_authority": 3250724528.37,
+      "budget_deficit_contribution": 2813048004.55,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "080",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 4132573831.89,
+      "budget_authority": 3315055408.57,
+      "budget_deficit_contribution": 4257626116.97,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "015",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 902993327.28,
+      "budget_authority": 835319967.15,
+      "budget_deficit_contribution": 777143346.9,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "025",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 1949418031.07,
+      "budget_authority": 2840355346.84,
+      "budget_deficit_contribution": 1601882662.78,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "080",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 3804887702.2,
+      "budget_authority": 3493851122.71,
+      "budget_deficit_contribution": 4457643735.74,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "030",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 2074307124.7,
+      "budget_authority": 3906144411.13,
+      "budget_deficit_contribution": 2128780597.1,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "015",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 2378729848.39,
+      "budget_authority": 5813666362.76,
+      "budget_deficit_contribution": 2273263428.02,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "070",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 972063235.11,
+      "budget_authority": 611477725.2,
+      "budget_deficit_contribution": 784185427.87,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "050",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 4830602870.22,
+      "budget_authority": 2022289288.21,
+      "budget_deficit_contribution": 4804326696.5,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "030",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 2605121306.1,
+      "budget_authority": 1142124193.51,
+      "budget_deficit_contribution": 2529152171.93,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "090",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 4284979132.9,
+      "budget_authority": 3512658592.33,
+      "budget_deficit_contribution": 4948663877.42,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "050",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 808053796.16,
+      "budget_authority": 1918439020.2,
+      "budget_deficit_contribution": 875991659.75,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "090",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 4108108621.32,
+      "budget_authority": 2095300673.12,
+      "budget_deficit_contribution": 4340494405.43,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "070",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 2110641800.21,
+      "budget_authority": 996869937.57,
+      "budget_deficit_contribution": 1696890642.17,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "015",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4624258187.4,
+      "budget_authority": 5897227502.1,
+      "budget_deficit_contribution": 4485156597.83,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "045",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 3649333965.76,
+      "budget_authority": 2383255757.47,
+      "budget_deficit_contribution": 3590240459.1,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "020",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 3372759855.42,
+      "budget_authority": 4532838320.04,
+      "budget_deficit_contribution": 3820567395.1,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "015",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 158512453.46,
+      "budget_authority": 6201955074.0,
+      "budget_deficit_contribution": 138261775.87,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "030",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 2435264749.96,
+      "budget_authority": 1447647822.17,
+      "budget_deficit_contribution": 2267147678.68,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "050",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 1001432473.49,
+      "budget_authority": 878674446.82,
+      "budget_deficit_contribution": 1171452013.85,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "020",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4995510792.91,
+      "budget_authority": 1406272676.0,
+      "budget_deficit_contribution": 5290904079.55,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "060",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 293080316.33,
+      "budget_authority": 6475988537.33,
+      "budget_deficit_contribution": 254026727.65,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "020",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 3798673961.92,
+      "budget_authority": 2683038907.97,
+      "budget_deficit_contribution": 4267504386.22,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "020",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 1001760268.57,
+      "budget_authority": 1707739759.46,
+      "budget_deficit_contribution": 827902980.04,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "070",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 3262156758.82,
+      "budget_authority": 2275632950.0,
+      "budget_deficit_contribution": 3520405707.34,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "025",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 4084126394.27,
+      "budget_authority": 6881135182.54,
+      "budget_deficit_contribution": 3292838254.36,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "015",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 4103428614.85,
+      "budget_authority": 6785388896.39,
+      "budget_deficit_contribution": 3792111899.53,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "020",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4265898234.15,
+      "budget_authority": 3119035711.95,
+      "budget_deficit_contribution": 4185043561.75,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "020",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 485160043.76,
+      "budget_authority": 1132157301.57,
+      "budget_deficit_contribution": 471155217.89,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "080",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 1526782041.91,
+      "budget_authority": 3147369924.82,
+      "budget_deficit_contribution": 1427570712.13,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "020",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 1592843483.99,
+      "budget_authority": 5647125156.33,
+      "budget_deficit_contribution": 1421969953.32,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "090",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 465542427.71,
+      "budget_authority": 4970720053.77,
+      "budget_deficit_contribution": 453109616.01,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "030",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 4972016910.2,
+      "budget_authority": 3619210250.81,
+      "budget_deficit_contribution": 4473692493.8,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "015",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 2054073589.13,
+      "budget_authority": 2105457907.54,
+      "budget_deficit_contribution": 2033665389.26,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "025",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 760951280.63,
+      "budget_authority": 900297501.31,
+      "budget_deficit_contribution": 843481528.73,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "060",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 4142751936.12,
+      "budget_authority": 4700439656.26,
+      "budget_deficit_contribution": 3902030905.04,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "045",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 2579838007.65,
+      "budget_authority": 4623780832.64,
+      "budget_deficit_contribution": 2979027370.37,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "045",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 1709376559.01,
+      "budget_authority": 2914543428.71,
+      "budget_deficit_contribution": 1553457339.55,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "020",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 4121193777.86,
+      "budget_authority": 2052962075.03,
+      "budget_deficit_contribution": 3801215816.36,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "020",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 3292353928.35,
+      "budget_authority": 6925845955.34,
+      "budget_deficit_contribution": 3876895536.09,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "025",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 3689156141.85,
+      "budget_authority": 6350803362.9,
+      "budget_deficit_contribution": 4227943685.1,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "015",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 258247628.94,
+      "budget_authority": 2352920721.58,
+      "budget_deficit_contribution": 254825919.31,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "025",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 559631339.56,
+      "budget_authority": 6127114885.85,
+      "budget_deficit_contribution": 573228662.32,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "060",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 2031883588.44,
+      "budget_authority": 5946737661.94,
+      "budget_deficit_contribution": 2362099730.06,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "070",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 3148302326.61,
+      "budget_authority": 1065864307.12,
+      "budget_deficit_contribution": 3232072545.65,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "045",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 586106516.32,
+      "budget_authority": 3118733472.81,
+      "budget_deficit_contribution": 692177206.06,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "090",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 1017181158.07,
+      "budget_authority": 832986897.11,
+      "budget_deficit_contribution": 1027578317.12,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "060",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 593572217.47,
+      "budget_authority": 6802196460.19,
+      "budget_deficit_contribution": 565181248.84,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "025",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 2337075262.3,
+      "budget_authority": 6769277218.29,
+      "budget_deficit_contribution": 2512461714.2,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "060",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 4429583055.66,
+      "budget_authority": 807167349.57,
+      "budget_deficit_contribution": 5215471330.17,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "070",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 3973560736.36,
+      "budget_authority": 5750968361.54,
+      "budget_deficit_contribution": 4278049574.34,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "045",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 4418478162.58,
+      "budget_authority": 6797188470.42,
+      "budget_deficit_contribution": 4908926573.59,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "045",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 3489221473.14,
+      "budget_authority": 2872283181.58,
+      "budget_deficit_contribution": 3138904142.55,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "025",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 474180200.36,
+      "budget_authority": 2842391972.27,
+      "budget_deficit_contribution": 490782632.32,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "060",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 2916631290.47,
+      "budget_authority": 5112161088.69,
+      "budget_deficit_contribution": 2863642013.53,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "080",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 4282578407.44,
+      "budget_authority": 5216260159.68,
+      "budget_deficit_contribution": 4661418561.31,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "020",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 386265235.25,
+      "budget_authority": 5046524743.67,
+      "budget_deficit_contribution": 354662947.34,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "045",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 3596997729.63,
+      "budget_authority": 6197644151.67,
+      "budget_deficit_contribution": 3892279282.18,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "070",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 3741180730.56,
+      "budget_authority": 2311872149.8,
+      "budget_deficit_contribution": 4036394011.41,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "025",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 1675299344.39,
+      "budget_authority": 4245966069.8,
+      "budget_deficit_contribution": 1679257960.59,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "020",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 4726037824.38,
+      "budget_authority": 4994453713.33,
+      "budget_deficit_contribution": 4205738618.05,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "050",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 588358385.46,
+      "budget_authority": 3211978961.92,
+      "budget_deficit_contribution": 669039909.97,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "015",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 887031784.06,
+      "budget_authority": 2434958393.89,
+      "budget_deficit_contribution": 742221349.4,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "090",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 1485718540.14,
+      "budget_authority": 2999828278.41,
+      "budget_deficit_contribution": 1559320679.98,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "045",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 3883851806.02,
+      "budget_authority": 5939325021.71,
+      "budget_deficit_contribution": 3163906929.32,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "020",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 2889838718.71,
+      "budget_authority": 2327348158.99,
+      "budget_deficit_contribution": 2914391818.16,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "070",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 4160435302.51,
+      "budget_authority": 1154404034.76,
+      "budget_deficit_contribution": 3584168855.21,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "060",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 3156137680.17,
+      "budget_authority": 2198851206.15,
+      "budget_deficit_contribution": 3726026519.08,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "030",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 1186729719.68,
+      "budget_authority": 2636032330.69,
+      "budget_deficit_contribution": 1385937652.26,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "025",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 1393833383.81,
+      "budget_authority": 3513985858.54,
+      "budget_deficit_contribution": 1306753275.69,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "030",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 2973249984.5,
+      "budget_authority": 6362357454.27,
+      "budget_deficit_contribution": 2862478161.18,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "070",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 4929712369.16,
+      "budget_authority": 3108412596.19,
+      "budget_deficit_contribution": 4764231832.39,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "060",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 3991753669.04,
+      "budget_authority": 5810786191.77,
+      "budget_deficit_contribution": 3331230720.48,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "020",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 1884610734.61,
+      "budget_authority": 4089179259.4,
+      "budget_deficit_contribution": 2214772623.82,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "015",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 4896087099.0,
+      "budget_authority": 1698748061.38,
+      "budget_deficit_contribution": 5730437209.4,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "080",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 4775226784.93,
+      "budget_authority": 1362636850.78,
+      "budget_deficit_contribution": 3886515362.49,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "020",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 2448302630.36,
+      "budget_authority": 2816188630.09,
+      "budget_deficit_contribution": 2704024786.6,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "070",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 3387222041.41,
+      "budget_authority": 4031595793.93,
+      "budget_deficit_contribution": 3529949914.11,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "025",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 199826729.99,
+      "budget_authority": 3723490504.05,
+      "budget_deficit_contribution": 210874640.88,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "080",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 4488332142.24,
+      "budget_authority": 622599130.11,
+      "budget_deficit_contribution": 3821995915.84,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "090",
+      "agency_name": "Customs and Border Protection",
+      "net_operating_cost": 3139091373.72,
+      "budget_authority": 6579810013.67,
+      "budget_deficit_contribution": 3065766742.08,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "060",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 3028504264.58,
+      "budget_authority": 6320290883.48,
+      "budget_deficit_contribution": 2672629418.28,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "020",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 331726843.63,
+      "budget_authority": 3801738987.06,
+      "budget_deficit_contribution": 332738942.57,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "045",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 1540486388.7,
+      "budget_authority": 4724480837.55,
+      "budget_deficit_contribution": 1285450999.41,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2020,
+      "department_code": "025",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 4825848275.47,
+      "budget_authority": 4722069632.08,
+      "budget_deficit_contribution": 3872539968.18,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "015",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 3491538463.89,
+      "budget_authority": 3001510921.8,
+      "budget_deficit_contribution": 3847501569.46,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "025",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 1195482891.75,
+      "budget_authority": 5236952032.37,
+      "budget_deficit_contribution": 991044629.13,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "025",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 1989593893.83,
+      "budget_authority": 3912857604.51,
+      "budget_deficit_contribution": 2185124519.61,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "030",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 2316686078.49,
+      "budget_authority": 3251264911.05,
+      "budget_deficit_contribution": 2169625591.66,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "080",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 1957285603.91,
+      "budget_authority": 4512724507.07,
+      "budget_deficit_contribution": 1900334663.99,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "030",
+      "agency_name": "Department of Homeland Security",
+      "net_operating_cost": 3785269592.75,
+      "budget_authority": 2250226718.9,
+      "budget_deficit_contribution": 3906224185.81,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2023,
+      "department_code": "015",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 2009538090.21,
+      "budget_authority": 3362135237.61,
+      "budget_deficit_contribution": 2181338227.01,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "070",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 3314012861.44,
+      "budget_authority": 2261618418.62,
+      "budget_deficit_contribution": 3450624705.43,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "020",
+      "agency_name": "Immigration and Customs Enforcement",
+      "net_operating_cost": 2565216815.74,
+      "budget_authority": 2135157443.93,
+      "budget_deficit_contribution": 2833657820.49,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "090",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 3406553911.03,
+      "budget_authority": 3440470902.35,
+      "budget_deficit_contribution": 2767485311.22,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2024,
+      "department_code": "080",
+      "agency_name": "Office of Biometric Identity Management",
+      "net_operating_cost": 2840660333.84,
+      "budget_authority": 6860552788.62,
+      "budget_deficit_contribution": 2765388957.86,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2022,
+      "department_code": "045",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 3651940933.12,
+      "budget_authority": 2152529597.63,
+      "budget_deficit_contribution": 3702175885.39,
+      "source": "synthetic_ICE"
+    },
+    {
+      "fiscal_year": 2021,
+      "department_code": "060",
+      "agency_name": "Federal Protective Service",
+      "net_operating_cost": 1647818072.51,
+      "budget_authority": 967696528.61,
+      "budget_deficit_contribution": 1354827401.86,
+      "source": "synthetic_ICE"
+    }
+  ]
+}
