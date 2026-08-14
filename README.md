@@ -71,7 +71,7 @@ All raw ingestion output additionally lands as timestamped JSON in `storage/land
 
 **1. Clone the repository** and make sure your working directory is the repo root when running notebooks (all data paths are relative to the repo root, e.g. `storage/clarity_analytics_center.db`).
 
-**Option 1:** Quick Start, Run 'start.ipynb'
+**Option 1:** Quick Start, Run `start.ipynb`
 
 **OR:**
 
