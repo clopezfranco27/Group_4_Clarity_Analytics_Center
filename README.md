@@ -18,7 +18,6 @@ Group_4_Clarity_Analytics_Center/
 │   ├── 02_ingestion.ipynb     # pulls raw data into the Bronze landing zone
 │   └── 03_processing.ipynb    # transforms Bronze -> Silver -> Gold (star schema)
 │   └── 04_data_governance.ipynb    # adds data catalog, dictionary, and business glossary tables
-
 ├── sources/
 │   └── [ICE ERO Statistics PDFs, enforcement metrics CSV]   # raw source files read during ingestion
 ├── storage/
